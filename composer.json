@@ -16,6 +16,10 @@
         "ebremner17/mj_theme": {
             "type": "vcs",
             "url": "https://github.com/ebremner17/mj_theme.git"
+        },
+        "ebremner17/mj_cfg": {
+            "type": "vcs",
+            "url": "https://github.com/ebremner17/mj_cfg.git"
         }
     },
     "conflict": {
@@ -51,6 +55,7 @@
         "drupal/twig_field_value": "2.0.0",
         "drupal/twig_tweak": "3.0.0-rc2",
         "drupal/views_bulk_operations": "3.9",
+        "ebremner17/mj_cfg": "1.x-dev",
         "ebremner17/mj_theme": "1.x-dev",
         "lullabot/entity_browser_block_layout": "master",
         "oomphinc/composer-installers-extender": "v1.1.2"

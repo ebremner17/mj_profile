@@ -16,6 +16,10 @@
         "ebremner17/mj_theme": {
             "type": "vcs",
             "url": "https://github.com/ebremner17/mj_theme.git"
+        },
+        "ebremner17/mj_blocks": {
+            "type": "vcs",
+            "url": "https://github.com/ebremner17/mj_blocks.git"
         }
     },
     "conflict": {
@@ -45,12 +49,16 @@
         "drupal/jquery_ui_slider": "1.1",
         "drupal/jquery_ui_touch_punch": "1.0.0",
         "drupal/inline_entity_form": "1.0-rc7",
+        "drupal/layout_builder_modal": "1.1",
+        "drupal/layout_builder_restrictions": "2.8",
+        "drupal/media_library_form_element": "2.0.3",
         "drupal/menu_force": "1.2",
         "drupal/pathauto": "1.8",
         "drupal/publishcontent": "1.2",
         "drupal/twig_field_value": "2.0.0",
         "drupal/twig_tweak": "3.0.0-rc2",
         "drupal/views_bulk_operations": "3.9",
+        "ebremner17/mj_blocks": "1.x-dev",
         "ebremner17/mj_theme": "1.x-dev",
         "lullabot/entity_browser_block_layout": "master",
         "oomphinc/composer-installers-extender": "2.0.0"

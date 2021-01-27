@@ -16,10 +16,6 @@
         "ebremner17/mj_theme": {
             "type": "vcs",
             "url": "https://github.com/ebremner17/mj_theme.git"
-        },
-        "ebremner17/mj_cfg": {
-            "type": "vcs",
-            "url": "https://github.com/ebremner17/mj_cfg.git"
         }
     },
     "conflict": {
@@ -55,7 +51,6 @@
         "drupal/twig_field_value": "2.0.0",
         "drupal/twig_tweak": "3.0.0-rc2",
         "drupal/views_bulk_operations": "3.9",
-        "ebremner17/mj_cfg": "1.x-dev",
         "ebremner17/mj_theme": "1.x-dev",
         "lullabot/entity_browser_block_layout": "master",
         "oomphinc/composer-installers-extender": "v1.1.2"
@@ -82,6 +77,9 @@
         "patches": {
             "drupal/draggableviews": {
                 "Sort handler specify order view": "https://www.drupal.org/files/issues/2020-10-07/draggableviews-sort_handler_specify_order_view-2767437-78.patch"
+            },
+            "drupal/core": {
+                "Fix Layout Builder rendering issues in Safari and Firefox": "https://www.drupal.org/files/issues/2019-03-24/off-canvas-style-resets-2958588-11.patch"
             }
         }
     }

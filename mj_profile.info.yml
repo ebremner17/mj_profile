@@ -37,7 +37,6 @@ install:
   - views_ui
   - tour
   - automated_cron
-  - mj_cfg
 themes:
   - mj_theme
   - claro

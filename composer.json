@@ -13,6 +13,10 @@
             "url": "https://github.com/lullabot/entity_browser_block_layout.git",
             "no-api": true
         },
+        "ebremner17/mj_commerce_paysafe": {
+            "type": "vcs",
+            "url": "https://github.com/ebremner17/mj_commerce_paysafe.git"
+        },
         "ebremner17/mj_theme": {
             "type": "vcs",
             "url": "https://github.com/ebremner17/mj_theme.git"
@@ -63,6 +67,7 @@
         "drupal/twig_tweak": "3.0.0-rc2",
         "drupal/views_bulk_operations": "3.9",
         "ebremner17/mj_blocks": "1.x-dev",
+        "ebremner17/mj_commerce_paysafe": "1.x-dev",
         "ebremner17/mj_theme": "1.x-dev",
         "lullabot/entity_browser_block_layout": "master",
         "oomphinc/composer-installers-extender": "2.0.0"

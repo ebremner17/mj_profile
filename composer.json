@@ -34,11 +34,12 @@
     "config": {
         "secure-http": false,
         "sort-packages": true,
-        "vendor-dir": "../../vendor"
+        "vendor-dir": "../../../vendor"
     },
     "minimum-stability": "dev",
     "require": {
         "commerceguys/addressing": "1.x-dev",
+        "drupal/commerce": "2.24",
         "composer/installers": "^1.7",
         "cweagans/composer-patches": "1.7.0",
         "drupal/address": "1.x-dev",
@@ -61,6 +62,7 @@
         "drupal/ludwig": "1.x-dev",
         "drupal/media_library_form_element": "2.0.3",
         "drupal/menu_force": "1.2",
+        "drupal/modal_page": "4.0.24",
         "drupal/pathauto": "1.8",
         "drupal/publishcontent": "1.2",
         "drupal/twig_field_value": "2.0.0",
@@ -70,7 +72,8 @@
         "ebremner17/mj_commerce_paysafe": "1.x-dev",
         "ebremner17/mj_theme": "1.x-dev",
         "lullabot/entity_browser_block_layout": "master",
-        "oomphinc/composer-installers-extender": "2.0.0"
+        "oomphinc/composer-installers-extender": "2.0.0",
+        "paysafegroup/paysafe_sdk_php": "dev-master"
     },
     "extra": {
         "installer-types": [

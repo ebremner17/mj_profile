@@ -13,6 +13,14 @@
             "url": "https://github.com/lullabot/entity_browser_block_layout.git",
             "no-api": true
         },
+        "ebremner17/mj_blocks": {
+            "type": "vcs",
+            "url": "https://github.com/ebremner17/mj_blocks.git"
+        },
+        "ebremner17/mj_common": {
+            "type": "vcs",
+            "url": "https://github.com/ebremner17/mj_common.git"
+        },
         "ebremner17/mj_commerce_paysafe": {
             "type": "vcs",
             "url": "https://github.com/ebremner17/mj_commerce_paysafe.git"
@@ -24,10 +32,6 @@
         "ebremner17/mj_theme": {
             "type": "vcs",
             "url": "https://github.com/ebremner17/mj_theme.git"
-        },
-        "ebremner17/mj_blocks": {
-            "type": "vcs",
-            "url": "https://github.com/ebremner17/mj_blocks.git"
         }
     },
     "conflict": {
@@ -74,6 +78,7 @@
         "drupal/twig_tweak": "3.0.0-rc2",
         "drupal/views_bulk_operations": "3.9",
         "ebremner17/mj_blocks": "1.x-dev",
+        "ebremner17/mj_common": "1.x-dev",
         "ebremner17/mj_commerce_paysafe": "1.x-dev",
         "ebremner17/mj_commerce_shipstation": "1.x-dev",
         "ebremner17/mj_theme": "1.x-dev",

@@ -50,6 +50,7 @@
         "drupal/config_update": "1.7",
         "drupal/commerce": "2.24",
         "drupal/commerce_shipping": "2.0-rc2",
+        "drupal/commerce_stock": "1.0-alpha5",
         "drupal/core": "9.1.4",
         "drupal/dashboards": "1.0-beta10",
         "drupal/devel": "4.0.0",
